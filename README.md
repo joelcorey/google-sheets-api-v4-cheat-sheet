@@ -26,7 +26,11 @@ Step 7 Add a new key, select JSON as the format
 
 ![Step 7](/img/007.png?raw=true "Step 7")
 
+Step 8 The credentials should be stored securely in somethin like an environmental variable
+
+Step 9 Replace relevant values in index.js
+
 additional resources:
 https://github.com/googleapis/google-api-nodejs-client#service-account-credentials
 https://www.npmjs.com/package/googleapis#application-default-credentials
-d
+
