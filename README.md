@@ -1,3 +1,6 @@
+Purpose:
+Service level account linking Google Sheets API v4 to a service such as Autocode or a local node environment.
+
 Step 1 is to create a new project in the Google Cloud Platform Dashboard
 
 ![Step 1](/img/001.png?raw=true "Step 1")
