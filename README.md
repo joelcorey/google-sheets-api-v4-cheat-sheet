@@ -28,7 +28,9 @@ Step 7 Add a new key, select JSON as the format
 
 Step 8 The credentials should be stored securely in somethin like an environmental variable
 
-Step 9 Replace relevant values in index.js
+Step 9 Copy the Service Account email from the credentials file. In the Google Sheet, click share and share it via that email address so that the Service Account has access rights
+
+Step 10 Replace relevant values in index.js
 
 additional resources:
 https://github.com/googleapis/google-api-nodejs-client#service-account-credentials
